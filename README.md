@@ -11,3 +11,10 @@ StudyBuddy is an app for students who want help staying organized and motivated 
 - Reminder messages
 - Study subjects list
 - Student profile information
+
+# Unit 0 Final Practice
+
+This repository contains my Unit 0 final practice for my dream application.
+
+## Google Doc Link
+https://docs.google.com/document/d/15fI5E_cHTJQDox9k5Ac4I_-5xqzDpOqvX29KhvGCYZw/edit?usp=sharing
